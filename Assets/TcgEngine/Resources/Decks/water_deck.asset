@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ecef176d27eb040a9770e0eefea2ec, type: 3}
+  m_Name: water_deck
+  m_EditorClassIdentifier: 
+  id: water_deck
+  title: Planet Veridra Starter
+  hero: {fileID: 11400000, guid: c24fa396e5d58724a93b24e688ad6975, type: 2}
+  cards:
+  - {fileID: 11400000, guid: a4c4049b533de1841a44693e9723bff7, type: 2}
+  - {fileID: 11400000, guid: 855ee139783fe9446b283db39d9a94ba, type: 2}
+  - {fileID: 11400000, guid: 02908099d9f5cbd4da85193c139ce4ad, type: 2}
+  - {fileID: 11400000, guid: 6a95cbeae8d1b6647b730681f049adbe, type: 2}
+  - {fileID: 11400000, guid: 749b85ca8a1628644b5b0fdaddacd4ec, type: 2}
+  - {fileID: 11400000, guid: ff0a70e9ab1f91a448bbc635416bb0f3, type: 2}
+  - {fileID: 11400000, guid: 17f05e0ac1e72c5429f6eea531d7e285, type: 2}
+  - {fileID: 11400000, guid: ac701ff1a17734f4398a75429395b839, type: 2}
+  - {fileID: 11400000, guid: d5997c152533b37429a956c0a63bb504, type: 2}
+  - {fileID: 11400000, guid: 1c03e47f5acb15846917db03147cab8e, type: 2}
+  - {fileID: 11400000, guid: 8539bebde63b6ec409452b8e20d120e3, type: 2}
+  - {fileID: 11400000, guid: daaa4c35723c09a448ce6c22be257994, type: 2}
+  - {fileID: 11400000, guid: 38f12427d17e0e14489897c6346acf6d, type: 2}
+  - {fileID: 11400000, guid: 73688bce676b5514abec28243ec3bf16, type: 2}
+  - {fileID: 11400000, guid: 2a6cd06f0c52d7448af6751db9a6abe6, type: 2}
+  - {fileID: 11400000, guid: ece395c956861a24aa06b8a48746dd9c, type: 2}
+  - {fileID: 11400000, guid: 5ddeb3bc726dc93418f26762df42a5a6, type: 2}
+  - {fileID: 11400000, guid: ff9d0db7ff87e21499c8ee1b78972ae4, type: 2}
+  - {fileID: 11400000, guid: 88ed3c668198cc6448e8b358bb48cd62, type: 2}
+  - {fileID: 11400000, guid: ccb63f50bbae3d84fa2e8fbe3c04f4c2, type: 2}

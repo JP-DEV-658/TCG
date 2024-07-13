@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ecef176d27eb040a9770e0eefea2ec, type: 3}
+  m_Name: fire_deck
+  m_EditorClassIdentifier: 
+  id: fire_deck
+  title: Ignis Asharos Starter
+  hero: {fileID: 11400000, guid: cf170aea7ffb041428f37608f1561058, type: 2}
+  cards:
+  - {fileID: 11400000, guid: d9247445ee2e0b646a94f830853b5491, type: 2}
+  - {fileID: 11400000, guid: d164ef8cb1a555d49b36cc6806322fa2, type: 2}
+  - {fileID: 11400000, guid: 0e58b2a98ae888841ab68bba5232cf9c, type: 2}
+  - {fileID: 11400000, guid: 6f4d7873e6f8ddc4184c43f89582b58d, type: 2}
+  - {fileID: 11400000, guid: 389388c3db8fe4747b2112d2b36448ca, type: 2}
+  - {fileID: 11400000, guid: d24c1bf66f84e074e8bc8dbe8c7585d4, type: 2}
+  - {fileID: 11400000, guid: e03c7c7041df2a84e983c8d7e73e614b, type: 2}
+  - {fileID: 11400000, guid: 474784b5264fdf14ca6c0ef91b0f26b1, type: 2}
+  - {fileID: 11400000, guid: abf2f860479a6f440a66e4d39c1491fc, type: 2}
+  - {fileID: 11400000, guid: 6fe8e4913c04a794bb9eff96fbe85812, type: 2}
+  - {fileID: 11400000, guid: af1dbc310d431734ea18db9074351ba6, type: 2}
+  - {fileID: 11400000, guid: 52fe96b9e8f94a44c858d36bad33d2bf, type: 2}
+  - {fileID: 11400000, guid: c8aaceb91b73f234faa68ce60d19a0a6, type: 2}
+  - {fileID: 11400000, guid: e80ca533d78022a40b70a0e71e5982e5, type: 2}
+  - {fileID: 11400000, guid: 950b14b1b060cbd4b9cc05d054ae63d0, type: 2}
+  - {fileID: 11400000, guid: d18cc2f79006b944491c2d2b40beb063, type: 2}
+  - {fileID: 11400000, guid: 77529ed297e9c7742b2706f333316dfe, type: 2}
+  - {fileID: 11400000, guid: 8a0c0c9b16a0fe14d8f9820b42433808, type: 2}
+  - {fileID: 11400000, guid: 6178a34ff0586584b97023e80d768add, type: 2}
+  - {fileID: 11400000, guid: 539ea5ca3bed4b74f9c7f5c5ba056c7c, type: 2}

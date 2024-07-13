@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87ecef176d27eb040a9770e0eefea2ec, type: 3}
+  m_Name: forest_deck
+  m_EditorClassIdentifier: 
+  id: forest_deck
+  title: Felonix Rift Starter
+  hero: {fileID: 11400000, guid: 04fd0777e8f567b48ad05e6bdaf97c1d, type: 2}
+  cards:
+  - {fileID: 11400000, guid: 148823d52c020074091bdcb7656f478f, type: 2}
+  - {fileID: 11400000, guid: 4433de19c3f403040a4dee4e8c1911ea, type: 2}
+  - {fileID: 11400000, guid: 71f9ace03c068384f9f33978fe46282f, type: 2}
+  - {fileID: 11400000, guid: b4c7faa1527864440ae3714a94eca834, type: 2}
+  - {fileID: 11400000, guid: b310855008cf0f645b2f11be9d6638a8, type: 2}
+  - {fileID: 11400000, guid: e124519d05561a848a5306e2074ce813, type: 2}
+  - {fileID: 11400000, guid: edc3e394d21e6a249a016ce410bcd717, type: 2}
+  - {fileID: 11400000, guid: 597acda7d3898634492bf043d7697f2a, type: 2}
+  - {fileID: 11400000, guid: af3658746fbf97b4ca7a26eab0ac696c, type: 2}
+  - {fileID: 11400000, guid: 6e6b135cea766004fa7b4f6ca0768455, type: 2}
+  - {fileID: 11400000, guid: a74ca05c82c773c49831bb009967fd3c, type: 2}
+  - {fileID: 11400000, guid: 26217e28aaf6a7242b5128d3fd12a2d6, type: 2}
+  - {fileID: 11400000, guid: c338079f01a6d654a9e4968bf86fa920, type: 2}
+  - {fileID: 11400000, guid: 52b624b5c86e37d4aa85048032da223b, type: 2}
+  - {fileID: 11400000, guid: 84ca17ae4b19e82428c0540d96d60d9f, type: 2}
+  - {fileID: 11400000, guid: 3c1aed0e4199eaa448f13b59f0f79ce7, type: 2}
+  - {fileID: 11400000, guid: dc39d13b6fe67da419e5ddf6e890101a, type: 2}
+  - {fileID: 11400000, guid: 127cee7710e95344fa65d9e9ae0490a1, type: 2}
+  - {fileID: 11400000, guid: 293def2651a62374db6241466d0371d5, type: 2}
+  - {fileID: 11400000, guid: e79fa83e2f18d344f8362ff92c82c2ab, type: 2}
